@@ -1,0 +1,4 @@
+configparser
+pymysql
+boto3
+psycopg2
